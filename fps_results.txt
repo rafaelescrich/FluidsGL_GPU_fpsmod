@@ -1,0 +1,16 @@
+Starting automatic stress test...
+fluidsGL Starting...
+
+NOTE: The CUDA Samples are not meant for performance measurements. Results may vary when GPU Boost is enabled.
+
+CUDA device [GeForce GTX 780] has 12 Multi-Processors
+325.626831 fps (1/10000)
+1436.344116 fps (326/10000)
+1573.124390 fps (1762/10000)
+1631.455933 fps (3335/10000)
+1585.506348 fps (4966/10000)
+1619.270386 fps (6551/10000)
+1648.049316 fps (8170/10000)
+1619.036987 fps (9818/10000)
+1610.890259 fps (10000/10000)
+fps average: 1449.922729
